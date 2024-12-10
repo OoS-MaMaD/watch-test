@@ -1,6 +1,6 @@
 package main
 
-import "watch-test/cmd"
+import "github.com/OoS-MaMaD/watch-test/cmd"
 
 func main() {
 	cmd.Execute()
