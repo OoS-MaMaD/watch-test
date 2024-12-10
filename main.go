@@ -1,6 +1,6 @@
 package main
 
-import "watchtower/cmd"
+import "watch-test/cmd"
 
 func main() {
 	cmd.Execute()
