@@ -1,4 +1,4 @@
-module watchtower
+module github.com/OoS-MaMaD/watch-test
 
 go 1.23.2
 
